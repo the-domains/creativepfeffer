@@ -1,0 +1,28 @@
+name: creativepfeffer
+favicon: null
+layout_spectrum: 0.3388260880019516
+typography_spectrum: 0.024408439872786403
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.0036570667289197445
+  lightness: 0.7594304103404284
+  saturation: 0.5226619224995375
+  rhythmicContrast: 0.7561424523591995
+purpose: []
